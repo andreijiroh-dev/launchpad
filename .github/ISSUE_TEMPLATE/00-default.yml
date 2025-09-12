@@ -80,25 +80,12 @@ body:
     attributes:
       label: Prior Art / Additional/Related Resources
       description: Links to related issues and resources.
-  - type: dropdown
+  - type: textarea
     id: project
     attributes:
       label: "Is this issue related to one of ~ajhalili2006's project?"
-      description: "Your issue might be moved/copied into the respective project's issue tracker on your behalf. Note that the list only includes projects that Andrei Jiroh currently maintains, excluding external and Recap Time Squad-related projects."
-      multiple: true
-      options:
-        - dotfiles
-        - nixops-config
-        - website
-        - wiki
-        - docker-images
-        - ppa
-        - mirrors-cdn
-        - api-servers
-        - scripts-toolkit
-        - infraops
-        - donatetgbot
-        - None of the above
+      description: "Your issue might be moved/copied into the respective project's issue tracker on your behalf. Note that the list only includes projects that Andrei Jiroh currently maintains on personal capacity."
+      placeholder: Mention project name and URL in this field.
   - type: markdown
     attributes:
       value: >
