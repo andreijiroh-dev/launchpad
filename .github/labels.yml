@@ -69,6 +69,12 @@
 - name: "fandom:edm"
   description: "Issues relating to the electronic music community and subgenres"
   color: "8b00ff"
+- name: "fandom:stellapent-cier"
+  description: "Issues relating to Gildedguy Stories series and Stellapent Cier universe"
+  color: "ffcc00"
+- name: "community:hyunsdojo"
+  description: "Issues relating to Hyun's Dojo Community"
+  color: "ff4500"
 
 # misc
 - name: personal-stuff
