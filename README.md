@@ -10,7 +10,7 @@
 Before you go, please see the [contributing guidelines](./CONTRIBUTING.md) and
 [code of conduct](CODE_OF_CONDUCT.md) first.
 
-* Linear (internal to Andrei Jiroh only): <https://linear.app/ajhalili2006/team/AJH/active>
+* Linear (internal to Andrei Jiroh only): <https://linear.app/ajhalili2006/team/LAIR/active>
 * public workboards:
     * GitHub: <https://github.com/andreijiroh-dev/personal-launchpad/issues>
     * GitLab: <https://gitlab.com/andreijiroh-dev/personal-launchpad/-/issues> (formerly on <https://mau.dev/andreijiroh-dev/launchpad/issues>)
